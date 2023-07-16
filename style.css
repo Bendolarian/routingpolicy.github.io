@@ -10,3 +10,7 @@ button {
     margin: 4px 2px;
     cursor: pointer;
   }
+  
+.button1 {width: 250px;}
+.button2 {width: 50%;}
+.button3 {width: 100%;}
