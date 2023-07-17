@@ -5,10 +5,7 @@
     padding: 16px 100px;
     text-decoration: none;
     text-align:center;
-    display: block;
     
-    
-
 }
 .button:hover {
     background-color: greenyellow;
