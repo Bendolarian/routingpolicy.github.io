@@ -5,6 +5,8 @@
     padding: 16px 100px;
     text-decoration: none;
     text-align:center;
+    float:
+    ;
 
 }
 .button:hover {
@@ -13,7 +15,9 @@
     color: black;
     
 }
-
+.flex-parent {
+    display:flex;
+}
 h1 {
     text-align: center;
 }
