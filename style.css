@@ -6,7 +6,7 @@
     text-decoration: none;
     text-align:center;
     display: block;
-
+    
     
 
 }
@@ -14,8 +14,12 @@
     background-color: greenyellow;
     outline-color: black;
     color: black;
-}
     
+}
+.btn-group {
+    display:block;
+    text-align: center;
+}
 h1 {
     text-align: center;
 }
