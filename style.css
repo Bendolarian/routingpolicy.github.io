@@ -15,8 +15,8 @@
     color: black;
     
 }
-.flex-parent {
-    display:flex;
+.btn-group {
+    display:block;
 }
 h1 {
     text-align: center;
