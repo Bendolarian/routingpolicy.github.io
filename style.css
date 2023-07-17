@@ -8,6 +8,9 @@
     width: 50%;
     display: block;
     align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
 
@@ -17,12 +20,7 @@
     color: black;
 }
 
-body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
 
-}
 
     
 
