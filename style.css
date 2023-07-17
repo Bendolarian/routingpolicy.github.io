@@ -5,8 +5,7 @@
     padding: 16px 24px;
     text-decoration: none;
     text-align:center;
-    display: inline-block;
-    align-items: center;
+    width: 30%;
     
 }
 .button:hover {
@@ -14,6 +13,10 @@
     outline-color: black;
     color: black;
     
+}
+.btn-group {
+    display: block;
+    align-items: center;
 }
 
 h1 {
