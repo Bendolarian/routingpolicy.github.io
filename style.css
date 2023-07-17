@@ -6,18 +6,15 @@
     text-decoration: none;
     text-align:center;
     width: 30%;
-    
+    display: block;
 }
+
 .button:hover {
     background-color: greenyellow;
     outline-color: black;
     color: black;
     
-}
-.btn-group {
-    display: block;
-    align-items: center;
-}
+
 
 h1 {
     text-align: center;
