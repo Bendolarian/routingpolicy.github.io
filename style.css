@@ -6,11 +6,11 @@
     text-decoration: none;
     text-align:center;
     width: 30%;
-    display: block;
+    vertical-align: middle;
     align-content: center;
-
     
-}
+
+    }
 
 .button:hover {
     background-color: greenyellow;
