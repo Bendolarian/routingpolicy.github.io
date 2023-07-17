@@ -4,6 +4,8 @@
     color: white;
     padding: 16px 100px;
     text-decoration: none;
+    text-align:center;
+
 }
 .button:hover {
     background-color: greenyellow;
@@ -12,3 +14,6 @@
     
 }
 
+h1 {
+    text-align: center;
+}
