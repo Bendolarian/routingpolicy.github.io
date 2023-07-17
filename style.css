@@ -5,7 +5,8 @@
     padding: 16px 24px;
     text-decoration: none;
     text-align:center;
-    display: block;
+    display: inline-flex;
+    align-items: center;
     
 }
 .button:hover {
