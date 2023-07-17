@@ -2,7 +2,7 @@
     border-radius: 10px;
     background-color: black;
     color: white;
-    padding: 24px;
+    padding: 16px 40px;
 }
 .button:hover {
     background-color: greenyellow;
