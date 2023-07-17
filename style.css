@@ -5,19 +5,17 @@
     padding: 16px 100px;
     text-decoration: none;
     text-align:center;
-    ;
+    display: block;
+
+    
 
 }
 .button:hover {
     background-color: greenyellow;
     outline-color: black;
     color: black;
+}
     
-}
-.btn-group {
-    display:block;
-    text-align: center;
-}
 h1 {
     text-align: center;
 }
