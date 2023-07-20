@@ -6,7 +6,7 @@
     text-decoration: none;
     text-align:center;
     width: 60%;
-    display: block;
+    display: flex;
     align-content: center;
     margin: 8px;
     flex-direction: column;
