@@ -6,11 +6,10 @@
     text-decoration: none;
     text-align:center;
     width: 60%;
-    display: flex;
+    display: block;
     align-content: center;
     margin: 8px;
-    flex-direction: column;
-    justify-content: center;
+    left: 50%;
     
 
     }
